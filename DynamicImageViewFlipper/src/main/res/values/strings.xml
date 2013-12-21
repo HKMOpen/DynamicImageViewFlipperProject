@@ -4,5 +4,7 @@
     <string name="app_name">DynamicImageViewFlipper</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="next">Next &gt;&gt; </string>
+    <string name="previous"> &lt;&lt; Previous</string>
 
 </resources>
